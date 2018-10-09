@@ -1,0 +1,51 @@
+* {
+	font-family: Helvetica;
+	margin: 20px;
+}
+
+.sallyphoto {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+address {
+	text-align: center;
+}
+
+address>p {
+	text-align: center;
+	font-size: 18px;
+	font-style: normal;
+}
+
+h1 {
+	margin: 5px 1px;
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 25px;
+	font-weight: normal;
+}
+
+h4 {
+	font-size: 18px;
+	font-style: italic;
+}
+
+h4+p {
+	text-align: justify;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	padding: 10px;
+}
+
+.tab {
+	text-indent: 20px;
+}
